@@ -3,7 +3,6 @@ Machine Learning Project – Dicoding
 
 Proyek ini merupakan proyek akhir dari pembelajaran Machine Learning Developer - DBS Foundation Coding Camp 2024 melalui platform Dicoding. Dalam proyek ini akan dibuat model untuk dapat melakukan klasifikasi gambar. Gambar yang akan dijadikan sampel adalah gambar tangan ( gunting, batu dan kertas).
 
-Kriteria
 Berikut kriteria submission yang harus Anda penuhi:
 Dataset yang dipakai haruslah dataset berikut : rockpaperscissors, atau gunakan link ini pada wget command: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.
 1.	Dataset harus dibagi menjadi train set dan validation set.
